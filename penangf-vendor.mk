@@ -270,7 +270,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/penangf/proprietary/vendor/etc/init/loghidlvendorservice.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/loghidlvendorservice.rc \
     vendor/motorola/penangf/proprietary/vendor/etc/init/md_monitor.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/md_monitor.rc \
     vendor/motorola/penangf/proprietary/vendor/etc/init/vendor.mediatek.hardware.face@1.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.mediatek.hardware.face@1.0-service.rc \
-    vendor/motorola/penangf/proprietary/vendor/etc/libese-nxp.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libese-nxp.conf \
     vendor/motorola/penangf/proprietary/vendor/etc/logo.bin:$(TARGET_COPY_OUT_VENDOR)/etc/logo.bin \
     vendor/motorola/penangf/proprietary/vendor/etc/portraitrepair_config.json:$(TARGET_COPY_OUT_VENDOR)/etc/portraitrepair_config.json \
     vendor/motorola/penangf/proprietary/vendor/firmware/ICNL9916.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/ICNL9916.bin \
